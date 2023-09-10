@@ -1,4 +1,20 @@
-header {
-    background-color: rgba(110, 116, 112, 0.834);
-    color: rgb(254, 254, 254);
+body {
+    text-align: center;
+    background-color: rgba(13, 2, 57, 0.834);
+    color: yellow;
+    width: 90%;
+    margin:auto
+    
+}
+.Titulo{
+    width: 40%;
+    font-size: 70px;
+    font-weight: 500;
+}
+
+P {
+    font-size: 30px;
+    padding: 10px;
+    text-align: justify;
+    letter-spacing: 1.2;
 }
